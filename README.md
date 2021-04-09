@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hemanth Anil
-- 👀 I’m interested in Data Mining and Web Technologies.
+- 👀 I’m interested in Mobile and Web Technologies.
 - 🌱 I’m currently learning ReactJS.
-- 💞️ I’m looking to collaborate on project with Biometrics and Data Science.
+- 💞️ I’m looking to collaborate on projects to fix bugs, implement features and update documentation.
 - 📫 How to reach me @ hemanthanilofficial@gmail.com
 
 <!---
