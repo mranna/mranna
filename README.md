@@ -1,7 +1,7 @@
 - 👋  Hi, I’m Hemanth Anil
-- 👀  I’m interested in developing Mobile and Web Technologies.
-- 🌱  I’m currently learning ReactJS and writing clean code.
-- 💞️  I’m looking to collaborate on projects to fix bugs, implement features and update documentations.
+- 👀  I’m interested in Product Management and development
+- 🌱  I’m currently learning about Products and also writing clean code.
+- 💞️  I’m looking to collaborate on projects to fix bugs, implement features, design products/services and update documentations.
 - 📫  How to reach me @ hemanthanilofficial@gmail.com
 
 <!---
