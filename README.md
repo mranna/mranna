@@ -1,6 +1,6 @@
 - 👋  Hi, I’m Hemanth Anil
 - 👀  I’m interested in Product Management and development
-- 🌱  I’m currently learning about Products and also writing clean code.
+- 🌱  I’m currently learning about architecture and also writing clean code.
 - 💞️  I’m looking to collaborate on projects to fix bugs, implement features, design products/services and update documentations.
 - 📫  How to reach me @ hemanthanilofficial@gmail.com
 
